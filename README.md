@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm kechemir abderahim</h1>
-<h3 align="center">A passionate fullstack developer from Algeria</h3>
+<h3 align="center">backend-focused fullstack dev, Java/Spring Boot + React</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/rahimkechemir](https://github.com/rahimkechemir)
 
